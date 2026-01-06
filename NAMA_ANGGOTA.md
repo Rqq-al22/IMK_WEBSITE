@@ -3,4 +3,4 @@ Dompetin merupakan website manajemen keuangan yang membantu pengguna mencatat da
 Kelompok 5
 - Rezki Alya Pasrun - E1E124015
 - Ananda Aden Putra - E1E124027
-- La ode guntur - kaimudin E1E124039
+- La Ode Guntur Kaimudin - E1E124039
